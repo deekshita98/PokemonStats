@@ -59,7 +59,7 @@ Catch_Rate: Catch rate.
 
 Body_Style: Body style according to the Pokédex.
 
-Tools and Technologies Used
+## Tools and Technologies Used
 
 Programming Language: Python
 
